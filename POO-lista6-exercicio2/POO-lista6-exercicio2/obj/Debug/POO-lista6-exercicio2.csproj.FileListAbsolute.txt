@@ -1,0 +1,7 @@
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\bin\Debug\POO-lista6-exercicio2.exe.config
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\bin\Debug\POO-lista6-exercicio2.exe
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\bin\Debug\POO-lista6-exercicio2.pdb
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\obj\Debug\POO-lista6-exercicio2.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\obj\Debug\POO-lista6-exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\obj\Debug\POO-lista6-exercicio2.exe
+C:\Users\Matheus Souza\Documents\Repositório\lista-de-exercicios-csharp-2.semestre\POO-lista6-exercicio2\POO-lista6-exercicio2\obj\Debug\POO-lista6-exercicio2.pdb
